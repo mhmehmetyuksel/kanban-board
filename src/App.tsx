@@ -10,6 +10,7 @@ function App() {
 
   const dispatch = useAppDispatch()
   const data = useAppSelector((state) => state.tasks.data)
+  
   const [open, setOpen] = useState<boolean>(false)
   const [newTitle, setNewTitle] = useState<string>('')
 

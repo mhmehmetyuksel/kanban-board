@@ -1,3 +1,23 @@
+# Drag & Drop Kanban Board
+
+In this app, you can create, remove, and reorder tasks. Also, you are able to do the same functions on columns.
+
+## Installation
+
+Firstly, clone the app to your device
+
+```bash
+git clone https://github.com/mhmehmetyuksel/kanban-board.git
+```
+Then, install the required packages
+
+```bash
+npm install
+```
+Finally, run the project by
+```bash
+npm run dev
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
